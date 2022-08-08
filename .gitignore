@@ -1,3 +1,5 @@
 env.bat
 /env
 __pycache__
+mysecond/mysecond/apps/articles/migrations
+#*migrations
